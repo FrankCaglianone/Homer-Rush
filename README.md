@@ -1,8 +1,8 @@
-#FINAL PROJECT SUBMISSION
+# FINAL PROJECT SUBMISSION
 
-##TITLE = HOMER BROS
+## TITLE = HOMER BROS
 
-##DATA-TYPES:
+## DATA-TYPES:
 1) World-state [menu? in-game? start? map time homer end? quit?] -> 1 player
 2) Homer(player) [display skin pos jump jstart end-jump?] 
 3) Background [scene pos hspeed floors max-time]
@@ -14,7 +14,7 @@ Dollars, skateboard , Score counter are not data types anymore because of severa
 
 Moe's bar and Homer house are parts of the background image (map).
 
-##CONSTANTS
+## CONSTANTS
 1) Maps [3 maps]
 2) Menu
 3) Load
@@ -23,7 +23,7 @@ Moe's bar and Homer house are parts of the background image (map).
 6) Timer [word, box]
 7) Homer draw [Homer-Simpson.rkt]
 
-##AUXILIAR FUNCTIONS
+## AUXILIAR FUNCTIONS
 1) Map generator (can choose between 3 maps) [file HOMER-BROS.rkt]
 2) Player movement [file HOMER-BROS.rkt]
 3) Timer [file HOMER-BROS.rkt]
@@ -33,13 +33,13 @@ Dollar movement-floating, Dogs movement, Score counter, Opening door: consequent
 
 -- In file [Images.rkt] are contained all images features --
 
-##GROUP MEMBERS:
+## GROUP MEMBERS:
 1- MASUTTI CRISTIANO
 2- PERRI RAFFAELE
 3- CAGLIANONE FRANCESCO
 4- FANTOZZI ANGELO FRANCESCO
 
-##MEMERS-WORK:
+## MEMERS-WORK:
 MASUTTI CRISTIANO, PERRI RAFFAELE ->  JUMP SECTOR, HORIZONTAL MOVEMENT, VARIABLE SETTINGS, BIG-BANG OPERATIONS
 CAGLIANONE FRANCESCO, FANTOZZI ANGELO FRANCESCO -> RENDERING, WORLD GENERATION, GRAPHICS(images.rkt) 
 
