@@ -5,23 +5,23 @@ A Mario Bros inspired video game but using Homer Simpon in Springfield.
 This project was developed as part of my Programming Fundamentals 1 course at [USI](https://www.usi.ch/it?_gl=1%2Agbvona%2A_ga%2AMTE2NTUzMjM1Ny4xNzA3NDEwNzE1%2A_ga_89Y0EEKVWP%2AMTcwOTgyOTY3NS41LjEuMTcwOTgyOTc2MC42MC4wLjE1MDQ4MDcwNDg.)
 
 ## Project Features
+All the Racket files and the maps (images) are contained in the "GAME-FILES" folder.
+Roads and Donuts are parts of the background image (map), for which posns had been taken to have floors on which homer would have walked on, the goal is to make Homer arrive to the end of the map without falling.
+Moe's bar and Homer house are parts of the background image (map).
+
+
+
+
+Dollars, skateboard , Score counter are not data types anymore because of several lagging problems.
+
 
 
 
 ## Requirements
 Make sure to first install the IDE at [Racket](https://racket-lang.org/)
 
-## DATA-TYPES:
-1) World-state [menu? in-game? start? map time homer end? quit?] -> 1 player
-2) Homer(player) [display skin pos jump jstart end-jump?] 
-3) Background [scene pos hspeed floors max-time]
-4) Timer (counter) [count sec]
 
-Roads and Donuts are parts of the background image (map), for which posns had been taken to have floors on which homer would have walked on.
 
-Dollars, skateboard , Score counter are not data types anymore because of several lagging problems.
-
-Moe's bar and Homer house are parts of the background image (map).
 
 ## CONSTANTS
 1) Maps [3 maps]
