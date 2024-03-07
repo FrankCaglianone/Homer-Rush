@@ -1,6 +1,15 @@
-# FINAL PROJECT SUBMISSION
+# Homer Rush ![DrRacket](https://img.shields.io/badge/DrRacket-blue)
 
-## TITLE = HOMER BROS
+## Project Description
+A Mario Bros inspired video game but using Homer Simpon in Springfield.
+This project was developed as part of my Programming Fundamentals 1 course at [USI](https://www.usi.ch/it?_gl=1%2Agbvona%2A_ga%2AMTE2NTUzMjM1Ny4xNzA3NDEwNzE1%2A_ga_89Y0EEKVWP%2AMTcwOTgyOTY3NS41LjEuMTcwOTgyOTc2MC42MC4wLjE1MDQ4MDcwNDg.)
+
+## Project Features
+
+
+
+## Requirements
+Make sure to first install the IDE at [Racket](https://racket-lang.org/)
 
 ## DATA-TYPES:
 1) World-state [menu? in-game? start? map time homer end? quit?] -> 1 player
@@ -38,10 +47,6 @@ Dollar movement-floating, Dogs movement, Score counter, Opening door: consequent
 2- PERRI RAFFAELE
 3- CAGLIANONE FRANCESCO
 4- FANTOZZI ANGELO FRANCESCO
-
-## MEMERS-WORK:
-MASUTTI CRISTIANO, PERRI RAFFAELE ->  JUMP SECTOR, HORIZONTAL MOVEMENT, VARIABLE SETTINGS, BIG-BANG OPERATIONS
-CAGLIANONE FRANCESCO, FANTOZZI ANGELO FRANCESCO -> RENDERING, WORLD GENERATION, GRAPHICS(images.rkt) 
 
 
 ## License
